@@ -29,3 +29,4 @@ mieux les interactions complexes entre les variables.
 1. Cloner le dépôt : `git clone https://github.com/kaneserignembacke260-beep/titanic-ml-pipeline.git`
 2. Ouvrir un notebook dans Google Colab ou Jupyter
 3. Exécuter les cellules dans l'ordre
+tu peux tester par ici :https://titanic-survie-serigne.streamlit.app/
